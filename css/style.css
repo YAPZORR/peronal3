@@ -1,0 +1,177 @@
+#body{
+    
+    margin: 0;
+    text-align: center;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+
+.banner{
+    height: 70%;
+    margin: 1rem;
+}
+.bottom-container{
+    text-align: center;
+}
+.skills{
+        text-align: center;
+}
+.btn-h1-a{
+    margin: 6% 0 0 8% ;
+}
+.btn-a{
+   
+    font-family: "Montserrat";
+
+}
+#btn-h1{
+    text-decoration: none;
+}
+#container-fluid{
+    padding: 3% 15%;
+    height: 10%;
+    
+}
+.bg-warning{
+    height: 10%;
+}
+.contactp{
+    margin-top: 50px;
+}
+.footer-link1{   
+   
+    text-decoration: none;
+    color: #070808;
+}
+.bottom-container{
+    background-color: #F49D1A;
+    height: 20px;
+    padding: 100px;
+}
+.footer-link2{   
+    
+    text-decoration: none;
+    color: #000000
+}
+.footer-link3{   
+    
+    text-decoration: none;
+    color: #080808
+}
+
+.btn-contact{
+    background: #11999E;
+  
+ 
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-family: 'Patua One', cursive;
+}
+.about{
+    width: 50%;
+    margin: 300px auto 30px auto;
+    text-align: center;
+    
+}
+
+.head{
+    height: 550px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: yellow;
+    margin-top: 10%;
+}
+.dropdown{
+    font-family: "Montserrat";
+}
+.headh1{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 5rem;
+    margin-top: 10%;
+}
+.contact-me{
+    text-align: center;
+    width: 50%;
+    margin: 200px auto 100px auto;
+}
+.linep{
+    font-size: 20px;
+    font-family: "Montserrat";
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+
+}
+.skill-body2{
+        text-align: left;
+        margin-top: 0px;
+}
+.skill-body3{
+        text-align: left;
+}
+.skill2-body2{
+    text-align: right;
+
+}
+.skill2-body3{
+    text-align: right;
+}
+.skill-body{
+    margin-top: 200px;
+    
+}
+.skill-row{
+    line-height: 2;
+}
+.toe{
+    line-height: 2;
+    width: 50%;
+    margin: 30px auto 100px auto;
+}
+.body{
+    text-align: center;
+}
+
+.skill-img1{
+    width: 9rem;
+    float: left;
+    margin-right: 30px;
+}
+.skill2img{
+    width: 9rem;
+    float: right;
+    margin-left: 30px;
+}
+.skill3img{
+    width: 9rem;
+    float: left;
+    margin-right: 30px;
+}
+.toeimg{
+    width: 25%;
+}
+.skill3-body2{
+    text-align: left;
+}
+.skill3-body3{
+    text-align: left;
+}
+
+p{
+    display: contents;
+}
+.img-logo{
+    height: 5rem;
+    border-radius: 50%;
+}
+.nav-item{
+    margin: 0 0.5rem 0 3rem;
+    font-family: "Montserrat";
+    
+}
